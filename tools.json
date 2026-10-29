@@ -1,0 +1,1910 @@
+[
+  {
+    "name": "Auth0",
+    "slug": "auth0",
+    "category": "auth",
+    "url": "https://auth0.com",
+    "page": "https://agentstacklist.com/tools/auth0/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": 3,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Enterprise-grade auth, easy to implement. Add login, SSO, MFA, and access control to any app with framework-aware guidance."
+  },
+  {
+    "name": "WorkOS",
+    "slug": "workos",
+    "category": "auth",
+    "url": "https://workos.com",
+    "page": "https://agentstacklist.com/tools/workos/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "WorkOS integration skills for AuthKit, SSO, Directory Sync, RBAC, Vault, Audit Logs, migrations, and API references."
+  },
+  {
+    "name": "Supabase",
+    "slug": "supabase",
+    "category": "database",
+    "url": "https://supabase.com",
+    "page": "https://agentstacklist.com/tools/supabase/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": 4,
+      "github-copilot": null,
+      "antigravity": 5
+    },
+    "description": "Supabase MCP integration for database operations, authentication, storage, and real-time subscriptions. Manage your Supabase projects, run SQL queries, and interact with your backend directly."
+  },
+  {
+    "name": "Firebase",
+    "slug": "firebase",
+    "category": "auth",
+    "url": "https://firebase.google.com",
+    "page": "https://agentstacklist.com/tools/firebase/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": 3,
+      "github-copilot": 3,
+      "antigravity": 3
+    },
+    "description": "Google Firebase MCP integration. Manage Firestore databases, authentication, cloud functions, hosting, and storage. Build and manage your Firebase backend directly from your development workflow."
+  },
+  {
+    "name": "Neon",
+    "slug": "neon",
+    "category": "database",
+    "url": "https://neon.tech",
+    "page": "https://agentstacklist.com/tools/neon/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 5,
+      "cursor": 5,
+      "github-copilot": null,
+      "antigravity": 5
+    },
+    "description": "Manage your Neon projects and databases with the neon-postgres agent skill and the Neon MCP Server."
+  },
+  {
+    "name": "PlanetScale",
+    "slug": "planetscale",
+    "category": "database",
+    "url": "https://planetscale.com",
+    "page": "https://agentstacklist.com/tools/planetscale/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "An authenticated hosted MCP server that accesses your PlanetScale organizations, databases, branches, schema, and Insights data. Query against your data, surface slow queries, and get organizational and account information."
+  },
+  {
+    "name": "MongoDB",
+    "slug": "mongodb",
+    "category": "database",
+    "url": "https://www.mongodb.com",
+    "page": "https://agentstacklist.com/tools/mongodb/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official Claude plugin for MongoDB (MCP Server + Skills). Connect to databases, explore data, manage collections, optimize queries, generate reliable code, implement best practices, develop advanced features, and more."
+  },
+  {
+    "name": "Convex",
+    "slug": "convex",
+    "category": "database",
+    "url": "https://convex.dev",
+    "page": "https://agentstacklist.com/tools/convex/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official Convex plugin for Claude Code with bundled Convex skills, the convex-expert subagent for code-writing, a runtime-error monitor, and MCP access for backend development, schema design, real-time features, auth, file storage, scheduled jobs, and AI agents."
+  },
+  {
+    "name": "Prisma Postgres",
+    "slug": "prisma-postgres",
+    "category": "database",
+    "url": "https://prisma.io",
+    "page": "https://agentstacklist.com/tools/prisma-postgres/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgres databases, run migrations, and interact with your data directly."
+  },
+  {
+    "name": "CockroachDB",
+    "slug": "cockroachdb",
+    "category": "database",
+    "url": "https://www.cockroachlabs.com",
+    "page": "https://agentstacklist.com/tools/cockroachdb/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Connect Claude Code directly to your CockroachDB clusters for hands-on database work — explore schemas, write optimized SQL, debug queries, and manage distributed database clusters. This plugin provides 14 tools across two active MCP backends (self-hosted MCP Toolbox and managed CockroachDB Cloud MCP Server), three specialized agents (DBA, Developer, Operator), 32 skills across 6 operational domains, and built-in safety hooks."
+  },
+  {
+    "name": "Redis",
+    "slug": "redis",
+    "category": "database",
+    "url": "https://redis.io",
+    "page": "https://agentstacklist.com/tools/redis/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Redis development best practices — data structures, query engine, vector search, caching, and performance optimization"
+  },
+  {
+    "name": "Appwrite",
+    "slug": "appwrite",
+    "category": "database",
+    "url": "https://appwrite.io",
+    "page": "https://agentstacklist.com/tools/appwrite/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Appwrite tools for Claude Code, including SDK skills, Appwrite MCP servers, and deployment commands."
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "category": "payments",
+    "url": "https://stripe.com",
+    "page": "https://agentstacklist.com/tools/stripe/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": null
+    },
+    "description": "Stripe development plugin for Claude"
+  },
+  {
+    "name": "PayPal",
+    "slug": "paypal",
+    "category": "payments",
+    "url": "https://developer.paypal.com",
+    "page": "https://agentstacklist.com/tools/paypal/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "PayPal development plugin for Claude — integrate payments, subscriptions, invoices, disputes, and more using PayPal's APIs and MCP server"
+  },
+  {
+    "name": "RevenueCat",
+    "slug": "revenuecat",
+    "category": "payments",
+    "url": "https://www.revenuecat.com",
+    "page": "https://agentstacklist.com/tools/revenuecat/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Configure RevenueCat projects, apps, products, entitlements, and offerings directly from Claude Code. Manage your in-app purchase backend without leaving your development workflow."
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "category": "hosting",
+    "url": "https://vercel.com",
+    "page": "https://agentstacklist.com/tools/vercel/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": null
+    },
+    "description": "Vercel deployment platform integration. Manage deployments, check build status, access logs, configure domains, and control your frontend infrastructure directly from Claude Code."
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "category": "hosting",
+    "url": "https://netlify.com",
+    "page": "https://agentstacklist.com/tools/netlify/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 3,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": 3
+    },
+    "description": "Netlify platform skills for Claude Code — functions, edge functions, blobs, database, image CDN, forms, config, CLI, frameworks, caching, AI gateway, and deployment."
+  },
+  {
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "category": "hosting",
+    "url": "https://cloudflare.com",
+    "page": "https://agentstacklist.com/tools/cloudflare/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": 5,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance."
+  },
+  {
+    "name": "Railway",
+    "slug": "railway",
+    "category": "hosting",
+    "url": "https://railway.com",
+    "page": "https://agentstacklist.com/tools/railway/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 4,
+      "cursor": 5,
+      "github-copilot": 4,
+      "antigravity": 5
+    },
+    "description": "Deploy and manage apps, databases, and infrastructure on Railway. Covers project setup, deploys, environment configuration, networking, troubleshooting, and monitoring."
+  },
+  {
+    "name": "Render",
+    "slug": "render",
+    "category": "hosting",
+    "url": "https://render.com",
+    "page": "https://agentstacklist.com/tools/render/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Deploy, debug, and monitor applications on Render. Includes skills, an agent, slash commands, and a render.yaml validation hook."
+  },
+  {
+    "name": "Resend",
+    "slug": "resend",
+    "category": "email",
+    "url": "https://resend.com",
+    "page": "https://agentstacklist.com/tools/resend/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": 4
+    },
+    "description": "Agent skills for working with Resend to send and receive emails — email API integration, agent inbox, CLI, React Email components, and deliverability best practices. Includes the Resend MCP server."
+  },
+  {
+    "name": "PostHog",
+    "slug": "posthog",
+    "category": "analytics",
+    "url": "https://posthog.com",
+    "page": "https://agentstacklist.com/tools/posthog/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 3,
+      "cursor": 3,
+      "github-copilot": 3,
+      "antigravity": null
+    },
+    "description": "Access PostHog analytics, feature flags, experiments, error tracking, and insights directly from Claude Code."
+  },
+  {
+    "name": "Amplitude",
+    "slug": "amplitude",
+    "category": "analytics",
+    "url": "https://amplitude.com",
+    "page": "https://agentstacklist.com/tools/amplitude/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Use Amplitude as an expert analyst — instrument Amplitude, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts."
+  },
+  {
+    "name": "Cloudinary",
+    "slug": "cloudinary",
+    "category": "storage",
+    "url": "https://cloudinary.com",
+    "page": "https://agentstacklist.com/tools/cloudinary/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Use Cloudinary directly in Claude. Manage assets, apply transformations, optimize media, and more through natural conversation."
+  },
+  {
+    "name": "Google Cloud Storage",
+    "slug": "google-cloud-storage",
+    "category": "storage",
+    "url": "https://cloud.google.com/storage",
+    "page": "https://agentstacklist.com/tools/google-cloud-storage/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official Google Cloud Storage (GCS) plugin. Manage buckets and objects, transfer data, and configure MCP, FUSE, IAM, security, lifecycle rules, signed URLs, Terraform, and the CLI."
+  },
+  {
+    "name": "Sentry",
+    "slug": "sentry",
+    "category": "monitoring",
+    "url": "https://sentry.io",
+    "page": "https://agentstacklist.com/tools/sentry/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": null
+    },
+    "description": "Sentry error monitoring integration. Access error reports, analyze stack traces, search issues by fingerprint, and debug production errors directly from your development environment."
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "category": "monitoring",
+    "url": "https://www.datadoghq.com",
+    "page": "https://agentstacklist.com/tools/datadog/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Use Datadog directly in Claude Code through a preconfigured Datadog MCP server. Query logs, metrics, traces, dashboards, and more through natural conversation. This plugin is in preview."
+  },
+  {
+    "name": "LogRocket",
+    "slug": "logrocket",
+    "category": "monitoring",
+    "url": "https://logrocket.com",
+    "page": "https://agentstacklist.com/tools/logrocket/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Connect Claude Code to LogRocket to query session replays, metrics, issues, and user behavior using natural language."
+  },
+  {
+    "name": "Honeycomb",
+    "slug": "honeycomb",
+    "category": "monitoring",
+    "url": "https://www.honeycomb.io",
+    "page": "https://agentstacklist.com/tools/honeycomb/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Skills, agents, and workflows for Honeycomb observability — query patterns, production investigations, SLOs, OpenTelemetry instrumentation, and Beeline migration. Designed to complement the Honeycomb MCP server."
+  },
+  {
+    "name": "Pydantic Logfire",
+    "slug": "pydantic-logfire",
+    "category": "monitoring",
+    "url": "https://pydantic.dev/logfire",
+    "page": "https://agentstacklist.com/tools/pydantic-logfire/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Add Logfire observability to Python applications with auto-instrumentation for FastAPI, httpx, asyncpg, SQLAlchemy, and more"
+  },
+  {
+    "name": "New Relic",
+    "slug": "new-relic",
+    "category": "monitoring",
+    "url": "https://newrelic.com",
+    "page": "https://agentstacklist.com/tools/new-relic/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "New Relic observability intelligence for Claude Code. Investigate APM performance, analyze cloud costs, debug Kubernetes, write NRQL queries, and respond to alerts — all from your terminal using New Relic telemetry data."
+  },
+  {
+    "name": "Grafana Cloud",
+    "slug": "grafana-cloud",
+    "category": "monitoring",
+    "url": "https://grafana.com",
+    "page": "https://agentstacklist.com/tools/grafana-cloud/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Hosted MCP server for AI-assisted Grafana Cloud observability — no local installation required."
+  },
+  {
+    "name": "Clerk",
+    "slug": "clerk",
+    "category": "auth",
+    "url": "https://clerk.com",
+    "page": "https://agentstacklist.com/tools/clerk/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": null
+    },
+    "description": "Vendor-published Claude Code plugin (own marketplace) bundling skills + Clerk MCP server"
+  },
+  {
+    "name": "Trigger.dev",
+    "slug": "trigger-dev",
+    "category": "background-jobs",
+    "url": "https://trigger.dev",
+    "page": "https://agentstacklist.com/tools/triggerdev/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official MCP server + skills with a one-line Claude Code installer; no official plugin (a community PR adding one, github.com/triggerdotdev/skills/pull/6, was closed without merging on 2026-10-19 UTC)"
+  },
+  {
+    "name": "Inngest",
+    "slug": "inngest",
+    "category": "background-jobs",
+    "url": "https://www.inngest.com",
+    "page": "https://agentstacklist.com/tools/inngest/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Vendor-published Claude Code plugin (skills + Cloud MCP) plus local Dev Server MCP; not in Anthropic's marketplace"
+  },
+  {
+    "name": "Postmark",
+    "slug": "postmark",
+    "category": "email",
+    "url": "https://postmarkapp.com",
+    "page": "https://agentstacklist.com/tools/postmark/",
+    "fit_score": 3,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 3,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official MCP server (24 tools) but no Claude Code plugin or skills found"
+  },
+  {
+    "name": "Upstash QStash",
+    "slug": "upstash-qstash",
+    "category": "background-jobs",
+    "url": "https://upstash.com/qstash",
+    "page": "https://agentstacklist.com/tools/upstash-qstash/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": 4
+    },
+    "description": "Vendor plugin bundling skills (incl. upstash-qstash-js) + remote MCP with QStash tools"
+  },
+  {
+    "name": "AWS S3",
+    "slug": "aws-s3",
+    "category": "storage",
+    "url": "https://aws.amazon.com/s3",
+    "page": "https://agentstacklist.com/tools/aws-s3/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build, deploy, and operate applications on AWS. Skills to author infrastructure-as-code, use core services, and complete common tasks."
+  },
+  {
+    "name": "Paddle",
+    "slug": "paddle",
+    "category": "payments",
+    "url": "https://www.paddle.com",
+    "page": "https://agentstacklist.com/tools/paddle/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Paddle Billing skills and MCP servers for Claude Code."
+  },
+  {
+    "name": "UploadThing",
+    "slug": "uploadthing",
+    "category": "storage",
+    "url": "https://uploadthing.com",
+    "page": "https://agentstacklist.com/tools/uploadthing/",
+    "fit_score": 2,
+    "has_mcp": null,
+    "has_skill": null,
+    "agent_scores": {
+      "claude-code": 2,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Only an experimental canary MCP package from an unmerged draft PR"
+  },
+  {
+    "name": "Plausible",
+    "slug": "plausible",
+    "category": "analytics",
+    "url": "https://plausible.io",
+    "page": "https://agentstacklist.com/tools/plausible/",
+    "fit_score": 2,
+    "has_mcp": false,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 2,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "No official MCP; Plausible docs point to a community server (getsentry/plausible-mcp)"
+  },
+  {
+    "name": "Lemon Squeezy",
+    "slug": "lemon-squeezy",
+    "category": "payments",
+    "url": "https://www.lemonsqueezy.com",
+    "page": "https://agentstacklist.com/tools/lemon-squeezy/",
+    "fit_score": 1,
+    "has_mcp": false,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 1,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "No official MCP/plugin found; only third-party MCP servers"
+  },
+  {
+    "name": "SendGrid",
+    "slug": "sendgrid",
+    "category": "email",
+    "url": "https://sendgrid.com",
+    "page": "https://agentstacklist.com/tools/sendgrid/",
+    "fit_score": 4,
+    "has_mcp": null,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "SendGrid skills ship in Twilio's official Anthropic-marketplace plugin (twilio-developer-kit, 8 SendGrid skills); its MCP only searches docs, no official sending MCP"
+  },
+  {
+    "name": "Sanity",
+    "slug": "sanity",
+    "category": "cms",
+    "url": "https://www.sanity.io",
+    "page": "https://agentstacklist.com/tools/sanity/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Sanity content platform integration with MCP server, agent skills, and slash commands. Query and author content, build and optimize GROQ queries, design schemas, and set up Visual Editing."
+  },
+  {
+    "name": "Mintlify",
+    "slug": "mintlify",
+    "category": "cms",
+    "url": "https://mintlify.com",
+    "page": "https://agentstacklist.com/tools/mintlify/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build beautiful documentation sites with Mintlify. Convert non-markdown files into properly formatted MDX pages, add and modify content with correct component use, and automate documentation updates."
+  },
+  {
+    "name": "Wix",
+    "slug": "wix",
+    "category": "cms",
+    "url": "https://www.wix.com",
+    "page": "https://agentstacklist.com/tools/wix/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build, manage, and deploy Wix sites and apps. CLI development skills for dashboard extensions, backend APIs, site widgets, and service plugins with the Wix Design System, plus MCP server for site management."
+  },
+  {
+    "name": "Airtable",
+    "slug": "airtable",
+    "category": "cms",
+    "url": "https://airtable.com",
+    "page": "https://agentstacklist.com/tools/airtable/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It combines structured data with multiplayer visual surfaces (grid, kanban, calendar, gallery, timeline) humans and agents share — plus sync integrations to Jira, Salesforce, Zendesk, Google Drive, Databricks, and the rest of your stack, all backed by enterprise governance. This plugin makes Claude fluent in Airtable: creating bases and schema, working with records, and sharing UI for collaboration. Bundles the official Airtable MCP server."
+  },
+  {
+    "name": "Exa",
+    "slug": "exa",
+    "category": "search",
+    "url": "https://exa.ai",
+    "page": "https://agentstacklist.com/tools/exa/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 5,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": 4
+    },
+    "description": "Exa AI web search, deep research, and content extraction. Provides MCP tools and research skills for comprehensive web search, people discovery, company research, academic papers, and more."
+  },
+  {
+    "name": "Tavily",
+    "slug": "tavily",
+    "category": "search",
+    "url": "https://tavily.com",
+    "page": "https://agentstacklist.com/tools/tavily/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build AI applications with real-time web data using Tavily's search, extract, crawl, and research APIs."
+  },
+  {
+    "name": "Firecrawl",
+    "slug": "firecrawl",
+    "category": "search",
+    "url": "https://firecrawl.dev",
+    "page": "https://agentstacklist.com/tools/firecrawl/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Web scraping and crawling powered by Firecrawl. Turn any website into clean, LLM-ready markdown or structured data. Scrape single pages, crawl entire sites, search the web, and extract structured information. Includes an AI agent for autonomous multi-source data gathering - just describe what you need and it finds, navigates, and extracts automatically."
+  },
+  {
+    "name": "Bright Data",
+    "slug": "bright-data",
+    "category": "search",
+    "url": "https://brightdata.com",
+    "page": "https://agentstacklist.com/tools/bright-data/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Web scraping, Google search, structured data extraction, and MCP server integration powered by Bright Data. Includes 7 skills: scrape any webpage as markdown (with bot detection/CAPTCHA bypass), search Google with structured JSON results, extract data from 40+ websites (Amazon, LinkedIn, Instagram, TikTok, YouTube, and more), orchestrate Bright Data's 60+ MCP tools, built-in best practices for Web Unlocker, SERP API, Web Scraper API, and Browser API, Python SDK best practices for the brightda..."
+  },
+  {
+    "name": "Hugging Face",
+    "slug": "hugging-face",
+    "category": "ai-apis",
+    "url": "https://huggingface.co",
+    "page": "https://agentstacklist.com/tools/hugging-face/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build, train, evaluate, and use open source AI models, datasets, and spaces."
+  },
+  {
+    "name": "Together AI",
+    "slug": "together-ai",
+    "category": "ai-apis",
+    "url": "https://www.together.ai",
+    "page": "https://agentstacklist.com/tools/together-ai/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Agent Skills for Together AI platform — inference, training, embeddings, audio, video, images, function calling, and infrastructure. Covers serverless chat completions, image/video generation, fine-tuning, batch inference, evaluations, sandboxes, dedicated endpoints, and GPU clusters."
+  },
+  {
+    "name": "Langfuse",
+    "slug": "langfuse",
+    "category": "ai-apis",
+    "url": "https://langfuse.com",
+    "page": "https://agentstacklist.com/tools/langfuse/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Skills for working with Langfuse, the open-source LLM engineering platform for tracing, prompt management, and evaluation."
+  },
+  {
+    "name": "Pinecone",
+    "slug": "pinecone",
+    "category": "vector-db",
+    "url": "https://www.pinecone.io",
+    "page": "https://agentstacklist.com/tools/pinecone/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Pinecone vector database integration. Streamline your Pinecone development with powerful tools for managing vector indexes, querying data, and rapid prototyping. Use slash commands like /quickstart to generate AGENTS.md files and initialize Python projects and /query to quickly explore indexes. Access the Pinecone MCP server for creating, describing, upserting and querying indexes with Claude. Perfect for developers building semantic search, RAG applications, recommendation systems, and other vector-based applications with Pinecone."
+  },
+  {
+    "name": "Qdrant",
+    "slug": "qdrant",
+    "category": "vector-db",
+    "url": "https://qdrant.tech",
+    "page": "https://agentstacklist.com/tools/qdrant/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Agent skills for Qdrant vector search covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java."
+  },
+  {
+    "name": "Zilliz Cloud",
+    "slug": "zilliz-cloud",
+    "category": "vector-db",
+    "url": "https://zilliz.com",
+    "page": "https://agentstacklist.com/tools/zilliz-cloud/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Zilliz Cloud management plugin with 14 skills covering cluster lifecycle, collection schema, vector search, index tuning, bulk import, RBAC, backups, and monitoring."
+  },
+  {
+    "name": "GrowthBook",
+    "slug": "growthbook",
+    "category": "feature-flags",
+    "url": "https://www.growthbook.io",
+    "page": "https://agentstacklist.com/tools/growthbook/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "A suite of agent skills for the full GrowthBook feature flag and experimentation lifecycle."
+  },
+  {
+    "name": "Confidence",
+    "slug": "confidence",
+    "category": "feature-flags",
+    "url": "https://confidence.spotify.com",
+    "page": "https://agentstacklist.com/tools/confidence/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Access Confidence feature flags, experiments, and migration tools directly from Claude Code."
+  },
+  {
+    "name": "Playwright",
+    "slug": "playwright",
+    "category": "testing",
+    "url": "https://playwright.dev",
+    "page": "https://agentstacklist.com/tools/playwright/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": 3,
+      "cursor": 3,
+      "github-copilot": 3,
+      "antigravity": 3
+    },
+    "description": "Browser automation and end-to-end testing MCP server by Microsoft. Enables Claude to interact with web pages, take screenshots, fill forms, click elements, and perform automated browser testing workflows."
+  },
+  {
+    "name": "Chrome DevTools MCP",
+    "slug": "chrome-devtools-mcp",
+    "category": "testing",
+    "url": "https://developer.chrome.com",
+    "page": "https://agentstacklist.com/tools/chrome-devtools-mcp/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": 3,
+      "github-copilot": 3,
+      "antigravity": 3
+    },
+    "description": "Control and inspect a live Chrome browser from your coding agent. Record performance traces, analyze network requests, check console messages with source-mapped stack traces, and automate browser actions with Puppeteer."
+  },
+  {
+    "name": "DeepEval",
+    "slug": "deepeval",
+    "category": "testing",
+    "url": "https://deepeval.com",
+    "page": "https://agentstacklist.com/tools/deepeval/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Skills for adding DeepEval evaluations, tracing, datasets, Confident AI reports, and iterative improvement loops to AI applications."
+  },
+  {
+    "name": "Qodo",
+    "slug": "qodo",
+    "category": "testing",
+    "url": "https://www.qodo.ai",
+    "page": "https://agentstacklist.com/tools/qodo/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Bring Qodo's codebase intelligence, coding standards, and code review into your coding agent."
+  },
+  {
+    "name": "CodeRabbit",
+    "slug": "coderabbit",
+    "category": "testing",
+    "url": "https://www.coderabbit.ai",
+    "page": "https://agentstacklist.com/tools/coderabbit/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Your code review partner. CodeRabbit provides external validation using a specialized AI architecture and 40+ integrated static analyzers—offering a different perspective that catches bugs, security vulnerabilities, logic errors, and edge cases. Context-aware analysis via AST parsing and codegraph relationships. Automatically incorporates CLAUDE.md and project coding guidelines into reviews. Useful after writing or modifying code, before commits, when implementing complex or security-sensitive logic, or when a second opinion would increase confidence in the changes. Returns specific findings with suggested fixes that can be applied immediately. Free to use."
+  },
+  {
+    "name": "Semgrep",
+    "slug": "semgrep",
+    "category": "testing",
+    "url": "https://semgrep.dev",
+    "page": "https://agentstacklist.com/tools/semgrep/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Semgrep catches security vulnerabilities in real-time and guides Claude to write secure code from the start."
+  },
+  {
+    "name": "SonarQube",
+    "slug": "sonarqube",
+    "category": "testing",
+    "url": "https://www.sonarsource.com",
+    "page": "https://agentstacklist.com/tools/sonarqube/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": 5
+    },
+    "description": "Automatically enforce SonarQube code quality and security in the agent coding loop — 7,000+ rules, secrets scanning, agentic analysis, and quality gates across 40+ languages. PostToolUse hooks run analysis after every file edit. Pre-tool secrets scanning prevents 450+ patterns from reaching the LLM. Slash commands give on-demand access to quality gate status, coverage, duplication, and dependency risks. Includes SonarQube CLI, MCP Server, skills, hooks, and slash commands."
+  },
+  {
+    "name": "Postman",
+    "slug": "postman",
+    "category": "testing",
+    "url": "https://www.postman.com",
+    "page": "https://agentstacklist.com/tools/postman/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": 5
+    },
+    "description": "Work with Postman from your agent: bootstrap a repo's Postman setup, mock an API before it's implemented, run collection and governance checks in CI, monitor a live endpoint, deploy and debug Postman Flows, and publish generated API documentation."
+  },
+  {
+    "name": "GitHub",
+    "slug": "github",
+    "category": "ci-cd",
+    "url": "https://github.com",
+    "page": "https://agentstacklist.com/tools/github/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": null
+    },
+    "description": "Official GitHub MCP server for repository management. Create issues, manage pull requests, review code, search repositories, and interact with GitHub's full API directly from Claude Code."
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "category": "ci-cd",
+    "url": "https://gitlab.com",
+    "page": "https://agentstacklist.com/tools/gitlab/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "GitLab DevOps platform integration. Manage repositories, merge requests, CI/CD pipelines, issues, and wikis. Full access to GitLab's comprehensive DevOps lifecycle tools."
+  },
+  {
+    "name": "Buildkite",
+    "slug": "buildkite",
+    "category": "ci-cd",
+    "url": "https://buildkite.com",
+    "page": "https://agentstacklist.com/tools/buildkite/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official Buildkite skills for Claude Code, Cursor, and other AI coding agents — pipelines, migration, preflight, agent runtime, CLI, and API"
+  },
+  {
+    "name": "Mergify",
+    "slug": "mergify",
+    "category": "ci-cd",
+    "url": "https://mergify.com",
+    "page": "https://agentstacklist.com/tools/mergify/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Skills for the Mergify CLI: manage merge queues, stacked pull requests, Test Insights (flaky tests, quarantine), merge protections, and Mergify configuration directly from the terminal."
+  },
+  {
+    "name": "Terraform",
+    "slug": "terraform",
+    "category": "ci-cd",
+    "url": "https://www.terraform.io",
+    "page": "https://agentstacklist.com/tools/terraform/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development."
+  },
+  {
+    "name": "HubSpot",
+    "slug": "hubspot",
+    "category": "crm",
+    "url": "https://www.hubspot.com",
+    "page": "https://agentstacklist.com/tools/hubspot/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Run your HubSpot sales workflow directly from Claude. Adds skills that cover the full sales day: import contacts and deals into HubSpot, get a prioritised morning brief, prep for any call with full CRM context, draft personalised follow-ups grounded in deal history, log calls and update records by describing what happened, and review your pipeline to surface stalling deals. Everything writes back to HubSpot."
+  },
+  {
+    "name": "Intercom",
+    "slug": "intercom",
+    "category": "crm",
+    "url": "https://www.intercom.com",
+    "page": "https://agentstacklist.com/tools/intercom/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Intercom integration for Claude Code. Search conversations, analyze customer support patterns, look up contacts and companies, and install the Intercom Messenger. Connect your Intercom workspace to get real-time insights from customer data."
+  },
+  {
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "category": "crm",
+    "url": "https://www.salesforce.com",
+    "page": "https://agentstacklist.com/tools/salesforce/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build Salesforce apps and agents using these core building blocks: metadata, Apex, deploy/retrieve, security, reporting, and generated installed-versus-available capability discovery."
+  },
+  {
+    "name": "monday CRM",
+    "slug": "monday-crm",
+    "category": "crm",
+    "url": "https://monday.com",
+    "page": "https://agentstacklist.com/tools/monday-crm/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Run your monday CRM in plain language. Build a pipeline from scratch, start the day with a ranked deal briefing, spin up a forecast dashboard, audit board health, clean up messy data in bulk, and turn meeting notes into deal updates. Every skill writes back into monday as a real update, doc, or dashboard. Built on the official monday MCP connector."
+  },
+  {
+    "name": "ActiveCampaign",
+    "slug": "activecampaign",
+    "category": "crm",
+    "url": "https://www.activecampaign.com",
+    "page": "https://agentstacklist.com/tools/activecampaign/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Marketing automation, CRM, and email marketing powered by ActiveCampaign. Manage contacts, campaigns, automations, deals, and get AI-powered marketing insights — all from Claude."
+  },
+  {
+    "name": "Mapbox",
+    "slug": "mapbox",
+    "category": "maps",
+    "url": "https://www.mapbox.com",
+    "page": "https://agentstacklist.com/tools/mapbox/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Mapbox skills and MCP servers for building location-aware applications with AI. Includes geospatial tools, style management, and patterns for web, iOS, Android, and AI agent frameworks."
+  },
+  {
+    "name": "Amazon Location Service",
+    "slug": "amazon-location-service",
+    "category": "maps",
+    "url": "https://aws.amazon.com/location",
+    "page": "https://agentstacklist.com/tools/amazon-location-service/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Guide developers through adding maps, places search, geocoding, routing, and other geospatial features with Amazon Location Service, including authentication setup, SDK integration, and best practices."
+  },
+  {
+    "name": "Shopify",
+    "slug": "shopify",
+    "category": "ecommerce",
+    "url": "https://www.shopify.com",
+    "page": "https://agentstacklist.com/tools/shopify/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 5,
+      "cursor": 5,
+      "github-copilot": 5,
+      "antigravity": 5
+    },
+    "description": "Shopify's AI Toolkit provides 18 development skills for building on the Shopify platform, covering documentation search, API schema access, GraphQL and Liquid code validation, Hydrogen storefronts, Polaris UI extensions, store management via CLI, and onboarding guidance for both developers and merchants."
+  },
+  {
+    "name": "Shippo",
+    "slug": "shippo",
+    "category": "ecommerce",
+    "url": "https://goshippo.com",
+    "page": "https://agentstacklist.com/tools/shippo/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Shippo connects you to USPS, UPS, FedEx, DHL, and 40+ carriers, so you can handle a shipment end to end right inside Claude. Compare live rates and pick the cheapest or best option, buy and print labels (domestic and international, with customs declarations), validate and standardize addresses, and track packages across carriers. Just ask in plain language: rate-shop a parcel, buy the right label, check a delivery status, or confirm an address before you ship. Whether you run a store or just need to send a package, Shippo turns a pile of carrier accounts into one simple conversation."
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
+    "category": "email",
+    "url": "https://www.twilio.com",
+    "page": "https://agentstacklist.com/tools/twilio/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Twilio Skills provide procedural knowledge for AI coding agents — which APIs to use, in what order, and what to avoid. Covers SMS, Voice, WhatsApp, Verify, SendGrid, Compliance, and 30+ products."
+  },
+  {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "category": "database",
+    "url": "https://clickhouse.com",
+    "page": "https://agentstacklist.com/tools/clickhouse/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Connect Claude to your ClickHouse Cloud databases. Browse organizations, services, databases, and table schemas. Run read-only SQL queries against your data and get instant analytical answers. Monitor service backups, review billing costs, and inspect ClickPipe configurations - all through natural conversation."
+  },
+  {
+    "name": "DuckDB",
+    "slug": "duckdb",
+    "category": "database",
+    "url": "https://duckdb.org",
+    "page": "https://agentstacklist.com/tools/duckdb/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "DuckDB-powered skills for Claude Code: read any data file, attach and query DuckDB databases, search DuckDB/DuckLake docs, search past session logs, and install/update DuckDB extensions."
+  },
+  {
+    "name": "Dynatrace",
+    "slug": "dynatrace",
+    "category": "monitoring",
+    "url": "https://www.dynatrace.com",
+    "page": "https://agentstacklist.com/tools/dynatrace/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Dynatrace observability skills: DQL query patterns, application and infrastructure monitoring, log analysis, problem investigation, and incident response workflows, with the Dynatrace MCP server for live platform access."
+  },
+  {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "category": "monitoring",
+    "url": "https://www.pagerduty.com",
+    "page": "https://agentstacklist.com/tools/pagerduty/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Enhance code quality and security through PagerDuty risk scoring and incident correlation. Score pre-commit diffs against historical incident data and surface deployment risk before you ship."
+  },
+  {
+    "name": "incident.io",
+    "slug": "incident-io",
+    "category": "monitoring",
+    "url": "https://incident.io",
+    "page": "https://agentstacklist.com/tools/incidentio/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Work with incident.io from Claude: respond to and investigate incidents, check on-call schedules and escalations, and author the runbooks, skills and architecture docs that incident.io investigations draw on. Bundles the official incident.io MCP server (OAuth on first use)."
+  },
+  {
+    "name": "Rootly",
+    "slug": "rootly",
+    "category": "monitoring",
+    "url": "https://rootly.com",
+    "page": "https://agentstacklist.com/tools/rootly/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Full-lifecycle incident management: deploy safety, incident response, on-call management, and retrospectives."
+  },
+  {
+    "name": "Linear",
+    "slug": "linear",
+    "category": "productivity",
+    "url": "https://linear.app",
+    "page": "https://agentstacklist.com/tools/linear/",
+    "fit_score": 4,
+    "has_mcp": true,
+    "has_skill": false,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": null
+    },
+    "description": "Linear issue tracking integration. Create issues, manage projects, update statuses, search across workspaces, and streamline your software development workflow with Linear's modern issue tracker."
+  },
+  {
+    "name": "Slack",
+    "slug": "slack",
+    "category": "productivity",
+    "url": "https://slack.com",
+    "page": "https://agentstacklist.com/tools/slack/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": 4,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Slack workspace integration. Search messages, access channels, read threads, and stay connected with your team's communications while coding. Find relevant discussions and context quickly."
+  },
+  {
+    "name": "Figma",
+    "slug": "figma",
+    "category": "productivity",
+    "url": "https://www.figma.com",
+    "page": "https://agentstacklist.com/tools/figma/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 3,
+      "cursor": 3,
+      "github-copilot": 3,
+      "antigravity": null
+    },
+    "description": "Figma design platform integration. Access design files, extract component information, read design tokens, and translate designs into code. Bridge the gap between design and development workflows."
+  },
+  {
+    "name": "Notion",
+    "slug": "notion",
+    "category": "productivity",
+    "url": "https://www.notion.so",
+    "page": "https://agentstacklist.com/tools/notion/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": 4,
+      "cursor": 4,
+      "github-copilot": 4,
+      "antigravity": 4
+    },
+    "description": "Notion workspace integration. Search pages, create and update documents, manage databases, and access your team's knowledge base directly from Claude Code for seamless documentation workflows."
+  },
+  {
+    "name": "Zapier",
+    "slug": "zapier",
+    "category": "productivity",
+    "url": "https://zapier.com",
+    "page": "https://agentstacklist.com/tools/zapier/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Connect 8,000+ apps to your AI workflow. Discover, enable, and execute Zapier actions directly from your client."
+  },
+  {
+    "name": "Tally",
+    "slug": "tally",
+    "category": "forms",
+    "url": "https://tally.so",
+    "page": "https://agentstacklist.com/tools/tally/",
+    "fit_score": 3,
+    "has_mcp": true,
+    "has_skill": null,
+    "agent_scores": {
+      "claude-code": 3,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official remote MCP server (OAuth); documented Claude Code command, beta"
+  },
+  {
+    "name": "Typeform",
+    "slug": "typeform",
+    "category": "forms",
+    "url": "https://www.typeform.com",
+    "page": "https://agentstacklist.com/tools/typeform/",
+    "fit_score": 3,
+    "has_mcp": true,
+    "has_skill": null,
+    "agent_scores": {
+      "claude-code": 3,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Official remote MCP server (OAuth); streamable HTTP endpoint https://api.typeform.com/mcp"
+  },
+  {
+    "name": "Airwallex",
+    "slug": "airwallex",
+    "category": "payments",
+    "url": "https://www.airwallex.com",
+    "page": "https://agentstacklist.com/tools/airwallex/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build Airwallex payment integrations in your own codebase. Generates the checkout, card-element, onboarding, and subscription-billing code for an Airwallex integration and wires it into your project: Hosted Payment Page, Drop-in and Split Card elements, connected-account KYC onboarding, and Billing Hosted Checkout for subscriptions and card-saving. Also plans card-on-file merchant-initiated flows for AI providers such as top-ups and auto-recharge."
+  },
+  {
+    "name": "SumUp",
+    "slug": "sumup",
+    "category": "payments",
+    "url": "https://www.sumup.com",
+    "page": "https://agentstacklist.com/tools/sumup/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "SumUp payment integrations across terminal and online checkout flows. Build Android and iOS POS apps with SumUp card readers, online checkout with server SDKs and the checkout widget, and control card readers remotely via Cloud API."
+  },
+  {
+    "name": "Mercado Pago",
+    "slug": "mercado-pago",
+    "category": "payments",
+    "url": "https://www.mercadopago.com",
+    "page": "https://agentstacklist.com/tools/mercado-pago/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Mercado Pago full-product integration toolkit. One agent routes to four orchestration skills (mp-integrate wizard, mp-webhooks, mp-test-setup, mp-review) that pull every endpoint, payload, and snippet live from the official Mercado Pago MCP server. The MCP must always be connected — there is no offline mode."
+  },
+  {
+    "name": "Aiven",
+    "slug": "aiven",
+    "category": "database",
+    "url": "https://aiven.io",
+    "page": "https://agentstacklist.com/tools/aiven/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Easily deploy managed PostgreSQL (pg), Kafka, OpenSearch, Clickhouse and other databases, streaming and apps. Free tier available, up and running in minutes."
+  },
+  {
+    "name": "Hostinger",
+    "slug": "hostinger",
+    "category": "hosting",
+    "url": "https://www.hostinger.com",
+    "page": "https://agentstacklist.com/tools/hostinger/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Deploy, manage and monitor your Hostinger services directly from Claude Code. The plugin connects Claude to Hostinger's remote MCP server, so you can ship sites and apps, manage domains and DNS, run WordPress and operate VPS servers without leaving your coding environment. There's nothing to install on your machine: no Node.js, no npm, no local server. Key features include one-prompt deployments for static sites, Node.js apps (built on Hostinger), full WordPress site imports, and WordPress plugins and themes, plus static and PHP sites on the Agency Plan. Beyond deployments, Claude can search and register domains, edit DNS records and snapshots, check build logs, and manage mailboxes, online stores, email marketing contacts, subscriptions and orders. It can also control VPS firewalls, snapshots and monitoring. Sign in through your browser (OAuth) on first use, or set a `HOSTINGER_API_TOKEN` from hPanel. How to use: there are no commands to memorize. Describe what you want and Claude picks the right tool or deployment skill. Try \"deploy my static site to Hostinger\", \"deploy this Next.js app to example.com\", \"create an A record pointing example.com to 1.2.3.4\", or \"show VPS metrics for the last 24 hours.\""
+  },
+  {
+    "name": "Val Town",
+    "slug": "val-town",
+    "category": "hosting",
+    "url": "https://val.town",
+    "page": "https://agentstacklist.com/tools/val-town/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Build and deploy on Val Town. Bundles the Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third-party integrations, templates)."
+  },
+  {
+    "name": "Box",
+    "slug": "box",
+    "category": "storage",
+    "url": "https://www.box.com",
+    "page": "https://agentstacklist.com/tools/box/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Work with your Box content directly from Claude Code — search files, organize folders, collaborate with your team, and use Box AI to answer questions, summarize documents, and extract data without leaving your workflow."
+  },
+  {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "category": "storage",
+    "url": "https://www.dropbox.com",
+    "page": "https://agentstacklist.com/tools/dropbox/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "The Dropbox plugin for Claude connects your Dropbox files directly to Claude, so you can search, organize, save generated content, and create sharing links without switching tools. It respects your existing Dropbox permissions, and Claude only works with files you already have access to."
+  },
+  {
+    "name": "Atlassian (Jira & Confluence)",
+    "slug": "atlassian-jira-confluence",
+    "category": "productivity",
+    "url": "https://www.atlassian.com",
+    "page": "https://agentstacklist.com/tools/atlassian-jira-confluence/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your development workflow with Atlassian's collaboration tools."
+  },
+  {
+    "name": "Fullstory",
+    "slug": "fullstory",
+    "category": "analytics",
+    "url": "https://www.fullstory.com",
+    "page": "https://agentstacklist.com/tools/fullstory/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Connect Claude to Fullstory to query behavioral analytics, session replays, and customer experience insights."
+  },
+  {
+    "name": "WordPress.com",
+    "slug": "wordpress-com",
+    "category": "cms",
+    "url": "https://wordpress.com",
+    "page": "https://agentstacklist.com/tools/wordpresscom/",
+    "fit_score": 4,
+    "has_mcp": false,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 4,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Craft production-grade WordPress sites and applications. Everything from themes and plugins to commerce and deployment."
+  }
+]

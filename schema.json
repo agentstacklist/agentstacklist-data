@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AgentStackList tools",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "name",
+      "slug",
+      "category",
+      "url",
+      "page",
+      "fit_score",
+      "has_mcp",
+      "has_skill",
+      "description",
+      "agent_scores"
+    ],
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "slug": {
+        "type": "string"
+      },
+      "category": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "page": {
+        "type": "string",
+        "format": "uri"
+      },
+      "fit_score": {
+        "type": [
+          "integer",
+          "null"
+        ]
+      },
+      "has_mcp": {
+        "type": [
+          "boolean",
+          "null"
+        ]
+      },
+      "has_skill": {
+        "type": [
+          "boolean",
+          "null"
+        ]
+      },
+      "description": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "agent_scores": {
+        "type": "object",
+        "additionalProperties": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}
