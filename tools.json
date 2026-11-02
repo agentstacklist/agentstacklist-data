@@ -1906,5 +1906,23 @@
       "antigravity": null
     },
     "description": "Craft production-grade WordPress sites and applications. Everything from themes and plugins to commerce and deployment."
+  },
+  {
+    "name": "Runway",
+    "slug": "runway",
+    "category": "ai-apis",
+    "url": "https://runway.com",
+    "page": "https://agentstacklist.com/tools/runway/",
+    "fit_score": 5,
+    "has_mcp": true,
+    "has_skill": true,
+    "agent_scores": {
+      "claude-code": 5,
+      "codex": null,
+      "cursor": null,
+      "github-copilot": null,
+      "antigravity": null
+    },
+    "description": "Get guidance for integrating video, image and audio generation with the Runway API and official SDKs. Connect to your Runway Dev account to inspect available models and task errors, manage Model Routers and existing real-time avatars, and inspect recorded routing decisions."
   }
 ]

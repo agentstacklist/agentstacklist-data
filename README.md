@@ -1,9 +1,9 @@
 <h1 align="center">AgentStackList Data</h1>
-<p align="center">An open dataset of 106 SaaS tools rated for AI coding agents, from <a href="https://agentstacklist.com">AgentStackList</a>.</p>
+<p align="center">An open dataset of 107 SaaS tools rated for AI coding agents, from <a href="https://agentstacklist.com">AgentStackList</a>.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/license-CC%20BY%204.0-blue" alt="License: CC BY 4.0">
-<img src="https://img.shields.io/badge/tools-106-brightgreen" alt="Tools: 106">
-<img src="https://img.shields.io/badge/last%20updated-2026--10--30-informational" alt="Last updated: 2026-10-30">
+<img src="https://img.shields.io/badge/tools-107-brightgreen" alt="Tools: 107">
+<img src="https://img.shields.io/badge/last%20updated-2026--11--02-informational" alt="Last updated: 2026-11-02">
 </p>
 
 ## What is this?
@@ -14,7 +14,7 @@ Every tool on [agentstacklist.com](https://agentstacklist.com) is checked for ho
 
 | File | Description |
 |---|---|
-| `tools.json` | All 106 tools with per-agent scores |
+| `tools.json` | All 107 tools with per-agent scores |
 | `tools.csv` | Same data, flat (no per-agent scores) |
 | `schema.json` | JSON Schema (draft 2020-12) for `tools.json` |
 | `LICENSE` | CC BY 4.0 |
@@ -76,14 +76,14 @@ How scores are made: [agentstacklist.com/methodology](https://agentstacklist.com
 | auth | 4 |
 | email | 4 |
 | search | 4 |
-| ai-apis | 3 |
+| ai-apis | 4 |
 | background-jobs | 3 |
 | vector-db | 3 |
 | ecommerce | 2 |
 | feature-flags | 2 |
 | forms | 2 |
 | maps | 2 |
-| **Total** | **106** |
+| **Total** | **107** |
 
 ## License
 
